@@ -1,1 +1,2 @@
-# machine-learning-
+# machine-learning学习笔记
+主要内容为自己学习机器学习过程中写过的一些代码和自己的总结
